@@ -37,7 +37,7 @@ The **Hospital Patient Management System (HPMS)** is a database-driven system de
 ## 🚀 Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Vamsinaga13/HPMS.git
    ```
 2. **Set Up the Database:**
    - Import `hospital_db.sql` into MySQL using PHPMyAdmin or a MySQL client.
