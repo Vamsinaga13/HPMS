@@ -1,7 +1,7 @@
-# Hospital Patient Management System (HPMS)
+# Hospital Management System (HPMS)
 
 ## 📋 Project Overview
-The **Hospital Patient Management System (HPMS)** is a database-driven system designed to manage hospital operations efficiently. It automates patient data storage, appointment scheduling, doctor assignments, billing, and prescription management.
+The **Hospital Management System (HPMS)** is a database-driven system designed to manage hospital operations efficiently. It automates patient data storage, appointment scheduling, doctor assignments, billing, and prescription management.
 
 ## 🌐 Key Features
 - **Patient Management:** Stores patient details, medical history, and admission records.
